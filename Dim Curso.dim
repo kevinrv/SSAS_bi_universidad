@@ -1,14 +1,14 @@
-﻿<Dimension xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="36e3ac41-ab5e-43f2-9d71-62897465bb88" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+﻿<Dimension xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="06254e7b-9546-4b59-99d6-51b48d622842" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
   <ID>Dim Curso</ID>
   <Name>Dim Curso</Name>
-  <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
-  <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+  <CreatedTimestamp>0001-01-01T05:00:00Z</CreatedTimestamp>
+  <LastSchemaUpdate>0001-01-01T05:00:00Z</LastSchemaUpdate>
   <Annotations>
     <Annotation>
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramLayout</Name>
       <Value>
         <dds xmlns="">
-          <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="2" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-3166" scrolltop="-6710" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="100" x="9440" y="16806" backcolor="2039583" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
+          <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="3" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-3166" scrolltop="-6710" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="100" x="9440" y="16806" backcolor="2039583" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
             <font>
               <ddsxmlobjectstreamwrapper binary="010000009001b0300100065461686f6d61" />
             </font>
@@ -19,7 +19,7 @@
           <layoutmanager>
             <ddsxmlobj />
           </layoutmanager>
-          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="dim_curso" left="20" top="0" logicalid="1" controlid="1" masterid="0" hint1="0" hint2="0" width="3069" height="3387" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="dim_curso" left="20" top="0" logicalid="2" controlid="1" masterid="0" hint1="0" hint2="0" width="3069" height="3387" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobjectstreaminitwrapper binary="000e0000fd0b00003b0d0000" />
             </control>
@@ -66,63 +66,71 @@
       <Value>100</Value>
     </Annotation>
   </Annotations>
-  <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+  <LastProcessed>0001-01-01T05:00:00Z</LastProcessed>
   <State>Unprocessed</State>
-  <Source xsi:type="DataSourceViewBinding" dwd:design-time-name="653d06a3-6c3f-4a5c-b86e-05a6b8e47de1">
+  <Source xsi:type="DataSourceViewBinding" dwd:design-time-name="1e20fbb8-960a-499c-9013-2115873287de">
     <DataSourceViewID>Bi Dsrp Universidad</DataSourceViewID>
   </Source>
   <UnknownMember>Visible</UnknownMember>
-  <ErrorConfiguration dwd:design-time-name="371d79d1-9bdd-4ac1-96d6-a99b5f2d52cb">
+  <ErrorConfiguration dwd:design-time-name="f1638d64-0638-4e90-9a04-84177c2c248e">
     <KeyNotFound>ReportAndStop</KeyNotFound>
     <KeyDuplicate>ReportAndStop</KeyDuplicate>
     <NullKeyNotAllowed>ReportAndStop</NullKeyNotAllowed>
   </ErrorConfiguration>
   <CurrentStorageMode>Molap</CurrentStorageMode>
   <Attributes>
-    <Attribute dwd:design-time-name="f3fdf26e-a724-4edf-8b34-894e432ff930">
+    <Attribute dwd:design-time-name="11afd8f7-0be6-4c9f-b29e-23c45fc4491d">
       <ID>Id</ID>
       <Name>Id</Name>
       <Usage>Key</Usage>
       <KeyColumns>
-        <KeyColumn dwd:design-time-name="6fad594b-ff40-434f-801a-bd6e56eea464">
+        <KeyColumn dwd:design-time-name="23433ea5-988a-4b4b-be84-95ee942166d4">
           <DataType>Integer</DataType>
           <NullProcessing>UnknownMember</NullProcessing>
-          <Source xsi:type="ColumnBinding" dwd:design-time-name="6747015f-258a-4dba-b837-b02f7c5f0e89">
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="ddd15296-8782-4e62-8ce9-f248c090a4c0">
             <TableID>dbo_dim_curso</TableID>
             <ColumnID>id</ColumnID>
           </Source>
         </KeyColumn>
       </KeyColumns>
       <AttributeRelationships>
-        <AttributeRelationship dwd:design-time-name="e3bd2a56-b7b9-41d9-bf00-54efd8c5c6b9">
+        <AttributeRelationship dwd:design-time-name="ccb3e0e3-ec06-48e6-951f-203aed81dc60">
           <AttributeID>Nombre Curso</AttributeID>
           <Name>Nombre Curso</Name>
         </AttributeRelationship>
-        <AttributeRelationship dwd:design-time-name="8227d979-90b0-48e0-99b7-d2421eb05f84">
+        <AttributeRelationship dwd:design-time-name="e33054b2-3bed-4ab7-b2e6-5e34897072fc">
           <AttributeID>Horas Teoria</AttributeID>
           <Name>Horas Teoria</Name>
         </AttributeRelationship>
-        <AttributeRelationship dwd:design-time-name="17e41dc6-724d-4890-af95-4c95c04432ab">
+        <AttributeRelationship dwd:design-time-name="04658406-e828-46ca-94fa-dc245d06597f">
           <AttributeID>Horas Practica</AttributeID>
           <Name>Horas Practica</Name>
         </AttributeRelationship>
-        <AttributeRelationship dwd:design-time-name="cff0c7f9-8218-4484-89af-a44548d6e85b">
+        <AttributeRelationship dwd:design-time-name="bf143763-fe1a-4779-acaa-11092e0ac71e">
           <AttributeID>Creditos</AttributeID>
           <Name>Creditos</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="aead063b-4f61-4199-b561-2b5c49f9992e">
+          <AttributeID>Horas Totales</AttributeID>
+          <Name>Horas Totales</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="23f4e361-4f1c-4147-b86e-ca39706e06a2">
+          <AttributeID>Valor Horas Credito</AttributeID>
+          <Name>Valor Horas Credito</Name>
         </AttributeRelationship>
       </AttributeRelationships>
       <OrderBy>Key</OrderBy>
       <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
       <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
     </Attribute>
-    <Attribute dwd:design-time-name="158642e8-ba0f-43d4-9bfa-9bb615eab8e4">
+    <Attribute dwd:design-time-name="04d97abb-6b00-4805-8bdb-21b0ee19ac11">
       <ID>Nombre Curso</ID>
       <Name>Nombre Curso</Name>
       <KeyColumns>
-        <KeyColumn dwd:design-time-name="8e709651-86ac-4ef4-a19b-992b93656519">
+        <KeyColumn dwd:design-time-name="38690ce2-770f-4f86-8baa-e9975b941259">
           <DataType>WChar</DataType>
           <DataSize>100</DataSize>
-          <Source xsi:type="ColumnBinding" dwd:design-time-name="2e507e9e-6497-422f-b372-c674df88fe6c">
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="7f3f7aec-9878-4aa9-a84f-76ef041a290e">
             <TableID>dbo_dim_curso</TableID>
             <ColumnID>nombre_curso</ColumnID>
           </Source>
@@ -131,13 +139,13 @@
       <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
       <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
     </Attribute>
-    <Attribute dwd:design-time-name="fef7f548-503b-44fb-aa30-89c0d46e47a4">
+    <Attribute dwd:design-time-name="e2ae2074-88d0-48ba-9d11-abb70aa4cf79">
       <ID>Horas Teoria</ID>
       <Name>Horas Teoria</Name>
       <KeyColumns>
-        <KeyColumn dwd:design-time-name="5fc66235-bd58-4d64-ab5a-a7e59497ab1e">
+        <KeyColumn dwd:design-time-name="3bd1d237-9aa3-498a-9f8a-5254e235ae0a">
           <DataType>Integer</DataType>
-          <Source xsi:type="ColumnBinding" dwd:design-time-name="63db26bd-068f-4752-bfc5-48f85c728400">
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="abe40617-539e-4390-a975-89d07285f5af">
             <TableID>dbo_dim_curso</TableID>
             <ColumnID>horas_teoria</ColumnID>
           </Source>
@@ -146,13 +154,13 @@
       <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
       <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
     </Attribute>
-    <Attribute dwd:design-time-name="9859e306-b2b8-4321-bfe2-8663eeaf08b1">
+    <Attribute dwd:design-time-name="044cf649-6e23-4dc9-91a8-ddc4310a5e5a">
       <ID>Horas Practica</ID>
       <Name>Horas Practica</Name>
       <KeyColumns>
-        <KeyColumn dwd:design-time-name="fa9c162a-a47c-49df-872d-d2760ecb9104">
+        <KeyColumn dwd:design-time-name="52e25012-8092-44e5-b148-80b348cd6efc">
           <DataType>Integer</DataType>
-          <Source xsi:type="ColumnBinding" dwd:design-time-name="cfc8b2b6-e3ea-474b-a6a8-4cd68b33ec39">
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="af2fe72c-d1ef-4eaf-818f-5d777ecc16ea">
             <TableID>dbo_dim_curso</TableID>
             <ColumnID>horas_practica</ColumnID>
           </Source>
@@ -161,15 +169,45 @@
       <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
       <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
     </Attribute>
-    <Attribute dwd:design-time-name="2a531e29-a3d5-4c05-89fe-a92a4705939d">
+    <Attribute dwd:design-time-name="6f5b5fdb-ea51-45e7-8229-83655b7cef58">
       <ID>Creditos</ID>
       <Name>Creditos</Name>
       <KeyColumns>
-        <KeyColumn dwd:design-time-name="c5b58a68-078f-4cba-9da8-9c94aa14c6d5">
+        <KeyColumn dwd:design-time-name="83a6b9d6-5708-4e26-9efd-af4a0e405733">
           <DataType>Integer</DataType>
-          <Source xsi:type="ColumnBinding" dwd:design-time-name="0dde8582-8689-4507-a184-bbf7787c2027">
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="211ea707-d671-4de8-be64-8f468f21d4fd">
             <TableID>dbo_dim_curso</TableID>
             <ColumnID>creditos</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="f29a24be-0c67-40ca-a876-edea32f85b4b">
+      <ID>Horas Totales</ID>
+      <Name>Horas Totales</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="63811120-7090-4bea-ad12-87b85da04326">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="5afdfc68-86de-4719-97f6-8193f0216c3b">
+            <TableID>dbo_dim_curso</TableID>
+            <ColumnID>horas_totales</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="ec4e44f5-75b0-48d2-83c4-39816d7d3cf1">
+      <ID>Valor Horas Credito</ID>
+      <Name>Valor Horas Credito</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="9bb4446e-09ed-4156-99d5-3c5ff25a0e10">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="20e9f0ac-0c7b-4ece-a3b3-2cce06d161f6">
+            <TableID>dbo_dim_curso</TableID>
+            <ColumnID>valor_horas_credito</ColumnID>
           </Source>
         </KeyColumn>
       </KeyColumns>
