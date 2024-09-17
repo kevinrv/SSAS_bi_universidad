@@ -448,8 +448,8 @@ End</Status>
     Then 0  
   Else -1  
 End</Trend>
-      <TrendGraphic>Standard Arrow</TrendGraphic>
-      <StatusGraphic>Gauge - Descending</StatusGraphic>
+      <TrendGraphic>Smiley Face</TrendGraphic>
+      <StatusGraphic>Traffic Light</StatusGraphic>
     </Kpi>
   </Kpis>
 </Cube>
